@@ -1,0 +1,58 @@
+.App {
+  position: relative;
+  min-height: 100vh;
+  background-color: black;
+}
+
+.App-header {
+  background-color: #282c34;
+  /*min-height: 100vh;*/
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(5px + 2vmin);
+  color:#61dafb;
+}
+
+.App-logosx {
+  position: absolute;
+  left: 30px;
+  top: 50px;
+  height: 100px;
+}
+
+.App-logodx {
+  justify-content: right;
+  position: absolute;
+  right: 30px;
+  top: 50px;
+  height: 100px;
+  transform: scaleX(-1);
+}
+
+.imgs {
+  display: flex;
+  justify-content: space-between;
+}
+
+.contenuto {
+  padding-bottom: 2.5rem;   
+}
+
+.App-footer {
+  background-color: #282c34;
+  max-height: 100px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(1px + 2vmin);
+  color: #61dafb;
+  position: absolute;
+  bottom: 0;
+  width: 100%; 
+  text-align: center;
+}
+
+
+

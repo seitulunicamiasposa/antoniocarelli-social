@@ -1,0 +1,18 @@
+.title {
+    padding-top: 10px;
+}
+
+.lista {
+     background-color: #61dafb;
+     margin-bottom: 50px;
+}
+
+#tweet-list {
+    border: solid 5px black;
+}
+
+.titolo {
+     padding-left: 10px;
+}
+
+

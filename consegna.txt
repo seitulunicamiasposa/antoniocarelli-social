@@ -1,0 +1,14 @@
+DETTAGLI CONSEGNA
+
+inviare mail a pietro.sardaro@lutech.it
+
+Oggetto: Consegna progetto Nome Cognome
+
+Messaggio/Contenuto: 
+- link del progetto GitHub
+- link del sito online
+
+1. utilizzare API GetAllPosts
+2. creare una topbar e una serie di card con il contenuto della risposta (una card per ogni contenuto)
+3. nella topbar un tasto (bottone da showare con l'if) che aggiunge un nuovo post alla lista (non all'API)
+4. azioni da gestire con "context" e create con gli hook
